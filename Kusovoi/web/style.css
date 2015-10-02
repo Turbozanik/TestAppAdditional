@@ -1,0 +1,30 @@
+#table1 {
+    width: 100%; /* Ширина таблицы */
+    border: 3px solid blue; /* Рамка вокруг таблицы */
+    margin: auto; /* Выравниваем таблицу по центру окна  */
+}
+#table2 {
+    width: 100%; /* Ширина таблицы */
+    border: 3px solid black; /* Рамка вокруг таблицы */
+    margin: auto; /* Выравниваем таблицу по центру окна  */
+}
+
+#td1 {
+    text-align: center; /* Выравниваем текст по центру ячейки */
+}
+
+#th1 {
+    width: 10%; 
+    text-align: center;
+}
+
+#index_body{
+    background-image: url(images/bg.jpg);
+    margin: 0;
+    height: 100%;
+    background-size: cover;
+}
+
+#image_logo{
+    text-align: left;
+}
